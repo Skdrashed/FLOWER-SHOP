@@ -263,3 +263,12 @@ footer {
     line-height: 30px;
     width: 625px;
 }
+/* new */
+.garden{
+    text-align: center;
+}
+.new{
+    height:450px;
+    width: 1440px;
+    margin-left: 240px;
+}
